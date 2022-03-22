@@ -1,6 +1,6 @@
 # [Paparazzi - Shop Jewelry Homepage](https://startbootstrap.com/template/shop-homepage/)
 
-[Paparazzi Jewelry](https://startbootstrap.com/template/shop-homepage/) is a basic HTML online store homepage for outstanding bracelets, brooch, and costum gems [Bootstrap](https://getbootstrap.com/) created by [Yolanda Perez and associates](https://startbootstrap.com/).
+[Paparazzi Jewelry](https://startbootstrap.com/template/shop-homepage/) is a basic HTML online store homepage for Jewelry that makes you feel like your most confident self. Shop pendants, earrings,& more! From classic necklaces to bold statement earrings, Find a style you will love! [Bootstrap](https://getbootstrap.com/) Head Sales Consultant [Yolanda Perez and associates](https://startbootstrap.com/).
 
 ## Preview
 
