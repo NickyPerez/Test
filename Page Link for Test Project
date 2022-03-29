@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Shop Homepage - Start Bootstrap Template</title>
+        <title>Shop Homepage </title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Bootstrap icons-->
@@ -49,7 +49,7 @@
             <div class="container px-4 px-lg-5 my-5">
                 <div class="text-center text-white">
                     <h1 class="display-4 fw-bolder">Shop in style</h1>
-                    <p class="lead fw-normal text-white-50 mb-0">With this shop hompeage template</p>
+                    <p class="lead fw-normal text-white-50 mb-0">With Yoli's Hidden Treasures Boutique VIP</p>
                 </div>
             </div>
         </header>
@@ -60,7 +60,7 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://www.facebook.com/photo?fbid=10224842757289169&set=gm.3274492419450954.jpg" alt="..." />
+                            <img class="card-img-top" src="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/277464768_10224842757249168_1027213070161956323_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=5cd70e&_nc_ohc=bZsroBKM-f8AX-bHzcR&_nc_ht=scontent-lga3-1.xx&oh=00_AT9UDdrYJr4BIY6WZFlf3BEPWqDPyuWmG4jyHmp80Jd2vg&oe=6247FEC6.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
