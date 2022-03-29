@@ -1,6 +1,6 @@
-# [Yoli's Hidden Treasures Boutique - Shop Jewelry]
+# Yoli's Hidden Treasures Boutique - Shop Jewelry
 
-[Yoli's Hidden Treasures Boutique is a basic HTML online store homepage for Jewelry that makes you feel like your most confident self. Shop pendants, earrings,& more! From classic necklaces to bold statement earrings, Find a style you will love! [Facebook](https://www.facebook.com/groups/3143884042511793) Head Sales Consultant and Website Owner [Yolanda Perez](https://www.facebook.com/yolanda.perez.562114).
+Yoli's Hidden Treasures Boutique is a basic HTML online store homepage for Jewelry that makes you feel like your most confident self. Shop pendants, earrings,& more! From classic necklaces to bold statement earrings, Find a style you will love! [Facebook](https://www.facebook.com/groups/3143884042511793) Head Sales Consultant and Website Owner [Yolanda Perez](https://www.facebook.com/yolanda.perez.562114).
 
 ## Homepage
 
