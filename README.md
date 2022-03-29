@@ -4,8 +4,7 @@ Yoli's Hidden Treasures Boutique is a basic HTML online store homepage for Jewel
 
 ## Homepage
 
-[![Shop Homepage Preview](https://assets.startbootstrap.com/img/screenshots/templates/shop-homepage.png)](https://startbootstrap.github.io/startbootstrap-shop-homepage/)
-
+[Shop Homepage Preview]
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-shop-homepage/)**
 
 ## Status
