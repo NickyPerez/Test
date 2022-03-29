@@ -1,6 +1,6 @@
-# [Paparazzi - Shop Jewelry](https://startbootstrap.com/template/shop-homepage/)
+# [Yoli's Hidden Treasures Boutique - Shop Jewelry](https://startbootstrap.com/template/shop-homepage/)
 
-[Paparazzi Jewelry](https://startbootstrap.com/template/shop-homepage/) is a basic HTML online store homepage for Jewelry that makes you feel like your most confident self. Shop pendants, earrings,& more! From classic necklaces to bold statement earrings, Find a style you will love! [Bootstrap](https://getbootstrap.com/) Head Sales Consultant and Website Owner [Yolanda Perez](https://startbootstrap.com/).
+[Yoli's Hidden Treasures Boutique](https://startbootstrap.com/template/shop-homepage/) is a basic HTML online store homepage for Jewelry that makes you feel like your most confident self. Shop pendants, earrings,& more! From classic necklaces to bold statement earrings, Find a style you will love! [Bootstrap](https://getbootstrap.com/) Head Sales Consultant and Website Owner [Yolanda Perez](https://startbootstrap.com/).
 
 ## Homepage
 
